@@ -1,0 +1,73 @@
+body{
+    background-image: url(./IMG/background.gif);
+    background-color: black;
+}
+header{
+    padding: 60px;
+    text-align: center;
+    background-image: url(./IMG/nyan.gif);
+    background-size: cover; background-position: center; height: 100%;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: papyrus;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 15px;
+    background-image: url(./IMG/skrillex.gif);
+    background-size: cover; background-position: center; width: 100%;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    }
+.titulo{
+    color: white;
+    font-family: papyrus;
+    font-weight: bolder;
+    font-size: larger;  
+    font-stretch: wider;
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(128, 0, 0);
+    padding: 10px;
+    text-align: center;
+    background-image: url(./IMG/flo.gif);
+    background-size: stretch; background-position: center; height: 100%;
+}
+.meio{
+    margin: auto;
+    width: 70%;
+    height: 100%;
+    border: 1px solid rgb(46, 0, 0);
+    background-image: url(./IMG/SPAKRLE.gif);
+    padding: 10px;
+    text-align: center;
+}
+.texto1{
+    font-size: larger;
+    font-weight: 900;
+    font-stretch: wider;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.clicaveis{
+    color: rgb(71, 67, 124) ;
+}
+.botasombra{
+    text-shadow: 500px 1px white;
+}
+.textos{
+    color: white;
+    background-image: url(./IMG/trani.gif);
+    background-size: stretch; background-position: center; height: 100%;
+}
+.maxwell{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
